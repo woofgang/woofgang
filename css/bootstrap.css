@@ -31,7 +31,7 @@ section {
 }
 
 header {
-  background: url(/images/top_border.png) repeat-x top center;
+  background: url(../images/top_border.png) repeat-x top center;
   width: 100%;
   font-family: Quicksand, Arial, Sans-serif;
   font-size: 18px;
@@ -363,7 +363,7 @@ cite {
   line-height: 1;
   width: 278px;
   height: 78px;
-  background: url(/images/woofgang_logo.png) no-repeat center center;
+  background: url(../images/woofgang_logo.png) no-repeat center center;
 }
 
 .navbar-fixed-top .navbar-inner {
@@ -380,7 +380,7 @@ cite {
 
 .navbar .nav > li {
   display: block;
-  background: url(/images/bullet.png) no-repeat center left;
+  background: url(../images/bullet.png) no-repeat center left;
   padding-left: 20px;
   margin-left: 15px;
   float: left;
@@ -583,7 +583,7 @@ cite {
   .navbar .brand {
     width: 351px;
     height: 98px;
-    background-image: url(/images/woofgang_logo_large.png);
+    background-image: url(../images/woofgang_logo_large.png);
   }
   .navbar .nav {
     margin-top: 42px;

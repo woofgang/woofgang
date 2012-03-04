@@ -13,7 +13,7 @@ section.top {
 }
 
 footer {
-  background: url(/images/cityscape.png) repeat-x bottom center;
+  background: url(../images/cityscape.png) repeat-x bottom center;
   width: 100%;
   height: 112px;
 }
@@ -66,7 +66,7 @@ a.brand {
   display:block;
   height: 90px;
   width: 90px;
-  background: url(/images/icons.png) no-repeat;
+  background: url(../images/icons.png) no-repeat;
   text-indent: -9999px;
 }
 
@@ -94,18 +94,18 @@ a.brand {
 #services .row ul li, #prices .row ul li {
   display: block;
   padding-left: 16px;
-  background: url(/images/bullet.png) no-repeat 0px 7px;
+  background: url(../images/bullet.png) no-repeat 0px 7px;
   margin-bottom: 18px;
 }
 
 #services .span4:nth-child(1) ul {
-  background: url(/images/dog_standing.png) no-repeat 20% 0%;
+  background: url(../images/dog_standing.png) no-repeat 20% 0%;
 }
 #services .span4:nth-child(2) ul {
-  background: url(/images/dog_ball.png) no-repeat 20% 0%;
+  background: url(../images/dog_ball.png) no-repeat 20% 0%;
 }
 #services .span4:nth-child(3) ul {
-  background: url(/images/dog_walking.png) no-repeat 20% 0%;
+  background: url(../images/dog_walking.png) no-repeat 20% 0%;
 }
 
 #services ol {
@@ -126,16 +126,16 @@ a.brand {
 }
 
 #services ol li:nth-child(1) {
-  background-image: url(/images/icon_step01.png);
+  background-image: url(../images/icon_step01.png);
 }
 #services ol li:nth-child(2) {
-  background-image: url(/images/icon_step02.png);
+  background-image: url(../images/icon_step02.png);
 }
 #services ol li:nth-child(3) {
-  background-image: url(/images/icon_step03.png);
+  background-image: url(../images/icon_step03.png);
   border: 0 none;
 }
 
 #services section.bottom .row {
-  background: url(/images/dog_woman.png) no-repeat bottom right;
+  background: url(../images/dog_woman.png) no-repeat bottom right;
 }
