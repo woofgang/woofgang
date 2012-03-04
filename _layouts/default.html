@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Woofgang professional dog walking service">
+    <meta name="author" content="Patricia Murino">
+
+    <link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+
+    <!-- Le styles -->
+    <link href="/css/page.css" rel="stylesheet">
+    <link href="/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  </head>
+  
+  <body id="{{ page.id }}">
+    <header class="navbar clearfix">
+      <nav class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="/">Woofgang Dog Walking</a>
+          <ul class="nav">
+            <li><a href="/services.html" class="services">Services</a></li>
+            <li><a href="/prices.html" class="prices">Prices &amp; Policy</a></li>
+            <li><a href="/gallery.html" class="gallery">Gallery</a></li>
+            <li><a href="emailto:pmurino@hotmail.com">Contact</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    
+    {{ content }}
+    
+    <footer>
+    </footer>
+  </body>
+</html>

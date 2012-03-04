@@ -1,0 +1,3 @@
+#Wolfgang is a professional dog walking service.
+
+BWSF provides daily one-hour off-leash exercise and strives to be your trusted dog care provider.BWSF philosophy is quality over quantity, which is why BWSF prides itself in walking small (6 –8 dogs per group), well-behaved dogs for a longer period of time. BWSF will provide your dog a responsible, loving, safe, social and fun experience. BWSF is a licensed and insured business.

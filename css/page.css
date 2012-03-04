@@ -1,0 +1,141 @@
+.container {
+  margin: 0 auto;
+}
+
+
+
+section {
+  padding: 60px 0;
+}
+
+section.top {
+  background-color: #f6f6f6;
+}
+
+footer {
+  background: url(/images/cityscape.png) repeat-x bottom center;
+  width: 100%;
+  height: 112px;
+}
+
+h1 {
+  font-family: Quicksand, Arial, Sans-serif;
+  font-weight: normal;
+  margin-bottom: 32px;
+  font-size: 36px;
+  line-height: 42px;
+  color: #6e6e6e;
+}
+
+h2 {
+  margin-bottom: 0;
+  font-size: 1em;
+}
+
+img.span5 {
+/*  display: block; */
+  margin-bottom: -60px;
+}
+
+a.brand {
+  text-indent: -9999px;
+}
+
+.share {
+  margin: 74px 0 0 40px;
+}
+
+.share h3 {
+  font-family: Quicksand, Arial, Sans-serif;
+  font-weight: normal;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+.share ul {
+  margin: 0 0 0 -35px;
+}
+
+.share li {
+  display: block;
+  float: left;
+  margin-left: 35px;
+}
+
+.share a {
+  display:block;
+  height: 90px;
+  width: 90px;
+  background: url(/images/icons.png) no-repeat;
+  text-indent: -9999px;
+}
+
+.share a.facebook {
+  background-position: -90px 0px;
+}
+
+.share a.youtube {
+  background-position: -180px 0px;
+}
+
+#services section.top .row {
+  margin-top: 67px;
+}
+
+#services .row ul {
+  padding-top: 140px;
+  margin: 0;
+}
+
+#prices .row ul {
+  margin: 1em 0 0 0;
+}
+
+#services .row ul li, #prices .row ul li {
+  display: block;
+  padding-left: 16px;
+  background: url(/images/bullet.png) no-repeat 0px 7px;
+  margin-bottom: 18px;
+}
+
+#services .span4:nth-child(1) ul {
+  background: url(/images/dog_standing.png) no-repeat 20% 0%;
+}
+#services .span4:nth-child(2) ul {
+  background: url(/images/dog_ball.png) no-repeat 20% 0%;
+}
+#services .span4:nth-child(3) ul {
+  background: url(/images/dog_walking.png) no-repeat 20% 0%;
+}
+
+#services ol {
+  margin: 0;
+}
+
+#services ol li {
+  height: 90px;
+  display: table;
+  padding: 30px 0 30px 125px;
+  background: no-repeat center left;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+#services ol li span {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#services ol li:nth-child(1) {
+  background-image: url(/images/icon_step01.png);
+}
+#services ol li:nth-child(2) {
+  background-image: url(/images/icon_step02.png);
+}
+#services ol li:nth-child(3) {
+  background-image: url(/images/icon_step03.png);
+  border: 0 none;
+}
+
+#services section.bottom .row {
+  background: url(/images/dog_woman.png) no-repeat bottom right;
+}

@@ -1,0 +1,3 @@
+#About me
+
+I’m Patricia, principle and dog walker for BWSF. I’ve been around animals all my life and afterworking as a graphic designer for most my professional career, my desire to be outside andfoster my love for dogs was put into motion and Bowwow Walking SF materialized. Health is veryimportant to me and it ought to be for your dog. I’ll make sure your dog makes nice friends, gets agood workout and returns home happy and tired.References are available upon request.
