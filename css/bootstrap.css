@@ -1,4 +1,5 @@
 /*!
+ * Based upon
  * Bootstrap v2.0.1
  *
  * Copyright 2012 Twitter, Inc
@@ -401,7 +402,7 @@ cite {
   color: #F26722;
   text-decoration: none;
 }
-#services .navbar .nav .services, #prices .navbar .nav .prices, #gallery .navbar .nav .gallery {
+#services .navbar .nav .services, #prices .navbar .nav .prices, #gallery .navbar .nav .gallery, #contact .navbar .nav .contact {
   color: #F26722;
   text-decoration: none;
 }
@@ -453,6 +454,10 @@ cite {
     border: 0 none;
     padding-top: 110px;
     background-position: 20px 0px;
+  }
+  
+  #prices section.top .container {
+    padding-bottom: 190px;
   }
   .container {
     width: auto;

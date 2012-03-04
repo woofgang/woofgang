@@ -7,12 +7,17 @@
   background-color: #f6f6f6;
 }
 
-section {
+section .container {
   padding: 60px 0;
 }
 
 section.top {
   background-color: #f6f6f6;
+}
+
+#prices section.top .container {
+  background: url(../images/dog_doberman.png) no-repeat bottom right;
+  padding-bottom: 120px;
 }
 
 footer {
