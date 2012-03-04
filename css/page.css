@@ -2,7 +2,10 @@
   margin: 0 auto;
 }
 
-
+#photo_gallery {
+  height: 600px;
+  background-color: #f6f6f6;
+}
 
 section {
   padding: 60px 0;
