@@ -101,6 +101,10 @@ a.brand {
   margin-bottom: 18px;
 }
 
+#services .span4 {
+  background-color: #cccccc;
+}
+
 #services .span4:nth-child(1) ul {
   background: url(../images/dog_standing.png) no-repeat 20% 0%;
   border-right: 1px solid #e5e5e5;
