@@ -448,6 +448,12 @@ cite {
     float: left;
     clear: both;
   }
+  #services .span4:nth-child(n) ul {
+    padding-left: 0;
+    border: 0 none;
+    padding-top: 110px;
+    background-position: 20px 0px;
+  }
   .container {
     width: auto;
     padding: 0 20px;
@@ -555,6 +561,7 @@ cite {
   #services section.bottom .row {
     background: none;
   }
+
 
   .navbar .container {
     width: auto;

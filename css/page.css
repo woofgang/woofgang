@@ -100,12 +100,15 @@ a.brand {
 
 #services .span4:nth-child(1) ul {
   background: url(../images/dog_standing.png) no-repeat 20% 0%;
+  border-right: 1px solid #e5e5e5;
 }
 #services .span4:nth-child(2) ul {
   background: url(../images/dog_ball.png) no-repeat 20% 0%;
 }
 #services .span4:nth-child(3) ul {
-  background: url(../images/dog_walking.png) no-repeat 20% 0%;
+  background: url(../images/dog_walking.png) no-repeat 25% 0%;
+  border-left: 1px solid #e5e5e5;
+  padding-left: 20px;
 }
 
 #services ol {
