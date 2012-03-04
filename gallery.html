@@ -23,4 +23,8 @@ id: gallery
         imageCrop: true,
         flickr: 'search:dogwalk',
     });
+    
+    $(".container").resize(function() {
+      console.log($("#photo_gallery").width());
+    });
 </script>
