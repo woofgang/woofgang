@@ -473,6 +473,9 @@ cite {
     margin-left: -20px;
     *zoom: 1;
   }
+  #index img.span5 {
+    margin-top: 100px;
+  }
   .row:before, .row:after {
     display: table;
     content: "";
@@ -562,7 +565,10 @@ cite {
     background: none;
   }
 
-
+  .share li {
+    clear: both;
+    margin: 0 0 20px 35px;
+  }
   .navbar .container {
     width: auto;
     padding: 0;
