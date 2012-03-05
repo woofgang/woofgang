@@ -86,6 +86,16 @@ a.brand {
   background-position: -180px 0px;
 }
 
+.share a.twitter:hover {
+  background-position: 0px -90px;
+}
+.share a.facebook:hover {
+  background-position: -90px -90px;
+}
+.share a.youtube:hover {
+  background-position: -180px -90px;
+}
+
 #services section.top .row {
   margin-top: 67px;
 }
