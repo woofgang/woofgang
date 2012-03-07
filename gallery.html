@@ -18,11 +18,12 @@ id: gallery
     Galleria.loadTheme('galleria/themes/my_theme/galleria.my_theme.js');
     $("#photo_gallery").galleria({
         transition: 'flash',
+        imageTimeout:60000,
         autoplay: 4000,
         showInfo: false,
         imageCrop: true,
         flickr: 'set:72157629521226169',
-        debug: false
+        debug: true
     });
     
     $(".container").resize(function() {
