@@ -12,21 +12,18 @@ id: gallery
 </div>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="galleria/galleria-1.2.6.min.js"></script>
-<script src="galleria/plugins/flickr/galleria.flickr.min.js"></script>
+<script src="galleria/src/galleria.js"></script>
+<script src="galleria/src/plugins/flickr/galleria.flickr.js"></script>
 <script>
-    Galleria.loadTheme('galleria/themes/my_theme/galleria.my_theme.js');
+    Galleria.loadTheme('galleria/src/themes/my_theme/galleria.my_theme.js');
     $("#photo_gallery").galleria({
         transition: 'flash',
         imageTimeout:60000,
         autoplay: 4000,
+        height: 0.5625,
         showInfo: false,
         imageCrop: true,
         flickr: 'set:72157629521226169',
-        debug: true
-    });
-    
-    $(".container").resize(function() {
-      console.log($("#photo_gallery").width());
+        debug: false
     });
 </script>
