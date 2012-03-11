@@ -10,6 +10,10 @@ section .container {
   padding: 60px 0;
 }
 
+#contact section .container {
+  padding: 30px 0;
+}
+
 section.top {
   background-color: #f6f6f6;
 }
